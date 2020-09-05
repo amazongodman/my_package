@@ -2,8 +2,8 @@
 
 
 
-###https://www.anaconda.com/pricing
-###https://git-scm.com/downloads
+### https://www.anaconda.com/pricing  
+### https://git-scm.com/downloads  
 
 path通す  
 
