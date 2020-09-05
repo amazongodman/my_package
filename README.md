@@ -5,7 +5,7 @@
 ### https://www.anaconda.com/pricing  
 ### https://git-scm.com/downloads  
 
-path通す  
+# path通す  
 
 git clone https://github.com/       .git  
 
