@@ -1,29 +1,17 @@
-# pack
+# prepare for python and git
 
+Python 3.7.9  
+https://www.anaconda.com/pricing   
+https://git-scm.com/downloads  
 
-Python 3.7.9
-### https://www.anaconda.com/pricing  
-### https://git-scm.com/downloads  
+# create gan 
 
-
-
-
-# path通す  
-
-git clone https://github.com/       .git  
 
 open IDE anaconda  
-
 cd  
-
-conda create -n envname python=3.7
-
-Python 3.7.9
-
-
-conda activate envname   
-
+conda create -n envname python=3.7.9  
+conda activate envname  
 pip install --user --requirement requirements.txt  
 
-
-
+#anogan
+git clone https://github.com/       .git  
